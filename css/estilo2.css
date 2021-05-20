@@ -1,0 +1,41 @@
+*{
+	margin:5px;
+	padding:5px;
+}
+body{
+	background-color:#333333;
+	color:yellow;
+	
+}
+#contenedor1{
+	height:400px;
+	width:400px;
+	background:pink;
+	border-radius:20px;
+	font-size:20pt;	
+}
+header{
+	height:100px;
+	background:green;
+	text-align:center;
+	border-radius:20px;
+	text-transform:uppercase;
+}
+section{
+	height:250px;
+	background:orange;
+	text-align:center;
+	border-radius:20px;
+	text-transform:uppercase;
+}
+header h1{
+	text-decoration:underline;
+	color:red;
+}
+section h1{
+	font-family:CourierNew;
+	color:#000000;
+}
+p{
+	font-size:15px;
+}
